@@ -8,10 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
-
-
 import com.nineoldandroids.view.animation.AnimatorProxy;
-
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity implements Animator.AnimatorListener {
